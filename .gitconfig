@@ -1,0 +1,6 @@
+[alias]
+  co=checkout
+  st=status
+  lg=log --oneline --graph
+[core]
+  editor=vim
